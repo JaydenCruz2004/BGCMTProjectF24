@@ -1,0 +1,4 @@
+Logistics Plan:
+Site A will receive 5 devices.
+Site B will receive 7 devices.
+Site C will receive 3 devices.
